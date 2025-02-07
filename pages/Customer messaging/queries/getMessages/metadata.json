@@ -33,7 +33,7 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "getMessages",
     "pageId": "Customer messaging",
     "userSetOnLoad": false
